@@ -1,11 +1,3 @@
-# Technocrats
-
-## Team Members:
-
-- Lakshmi Priya B
-- Nivedhitha D
-- Sakthi Sairaj
-
 # Project: Hand Talk
 
 - Gesture Recognition for Human Computer Interaction
