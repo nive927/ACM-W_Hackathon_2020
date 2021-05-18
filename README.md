@@ -2,7 +2,7 @@
 
 ## Team Members:
 
-- Lakshmi Priya B [Leader]
+- Lakshmi Priya B
 - Nivedhitha D
 - Sakthi Sairaj
 
